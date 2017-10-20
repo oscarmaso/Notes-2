@@ -7,3 +7,11 @@
 * &gt; : redirigir la entrada.
 * &gt;&gt; : here document.
 * &gt;&gt;&gt; : here string.
+
+
+## Metacaracteres
+
+* ~   : Mi direccion home
+* .   : Directorio actual
+* ..  : El cirectorio de arriba
+* -   : El fichero que representa la terminal.
