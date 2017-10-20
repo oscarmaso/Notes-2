@@ -16,7 +16,7 @@ En notacion de Backus-Naur.
 - M-Space : Cambiar el idioma.
 - M-↑ : Maximizar ventana.
 
-##TEXTO
+## TEXTO
 
 - C-+ : Aumnetar la fuente.
 - C-- : Disminuir la fuente.
